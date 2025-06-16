@@ -98,4 +98,4 @@ IES El Caminás, Castellón
 ## 🧭 Contacto
 
 ¿Buscas un desarrollador backend con conocimientos sólidos de DevOps y despliegue profesional en AWS/Docker?  
-Estoy abierto a nuevas oportunidades. Puedes contactarme por email o teléfono (incluido en el currículum CV).
+Estoy abierto a nuevas oportunidades. Puedes contactarme por email o teléfono (incluido en el currículum).
