@@ -82,7 +82,7 @@ IES El Caminás, Castellón
 
 - Español: Nativo  
 - Rumano: Nativo  
-- Inglés: Técnico intermedio
+- Inglés: Técnico avanzado
 
 ---
 
